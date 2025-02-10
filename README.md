@@ -49,7 +49,7 @@ He aprendido a través de **ejercicios, cursos online y prácticas con proyectos
 
 ## 📫 Contacto
 
-📩 **Discord:** 
+📩 **Discord:** https://discord.com/users/466732760812224523
 
 ---
 
