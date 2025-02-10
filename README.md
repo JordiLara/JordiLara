@@ -22,7 +22,7 @@ Soy un profesional en proceso de reskilling con experiencia en desarrollo web y 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JordiLara&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordiLara&layout=compact&theme=radical)
 
 ---
