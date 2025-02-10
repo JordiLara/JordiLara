@@ -4,7 +4,7 @@
 
 Soy un profesional en proceso de reskilling con experiencia en desarrollo web y una sólida trayectoria en la creación de contenido digital, gestión de plataformas online y atención al cliente. Tras más de 8 años en logística, me reinventé en el mundo digital. He trabajado como editor jefe en aplicaciones con millones de descargas y administrador de plataformas online con miles de usuarios. Actualmente me especializo en el desarrollo web con un enfoque en tecnologías modernas.
 
-He aprendido de forma **autodidacta**, a través de **ejercicios, cursos online y prácticas con proyectos propios**. En los próximos meses, estaré mejorando mis **habilidades como diseñador**, profundizando en **lenguajes de diseño** y avanzando en **React** para reforzar mis conocimientos.
+He aprendido a través de **ejercicios, cursos online y prácticas con proyectos propios**. En los próximos meses, estaré mejorando mis **habilidades como diseñador**, profundizando en **lenguajes de diseño** y avanzando en **React** para reforzar mis conocimientos.
 
 ---
 
