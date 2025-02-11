@@ -42,8 +42,8 @@ Continuo aprendiendo y mejorando en estas tecnologías para integrarlas mejor en
 ## 📊 GitHub Stats
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordiLara)](https://github.com/JordiLara/github-readme-stats)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordiLara&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JordiLara&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordiLara&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ---
