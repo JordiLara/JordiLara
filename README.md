@@ -42,8 +42,10 @@ Continuo aprendiendo y mejorando en estas tecnologías para integrarlas mejor en
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JordiLara&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordiLara&layout=compact&langs_count=10&theme=radical"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jordilara&show_icons=true&include_all_commits=true&theme=radical"/>
+</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordilara&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
 ---
