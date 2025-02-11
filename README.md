@@ -4,7 +4,7 @@
 
 Soy un profesional en proceso de reskilling con experiencia en desarrollo web y una sólida trayectoria en la creación de contenido digital, gestión de plataformas online y atención al cliente. Tras más de 8 años en logística, me reinventé en el mundo digital. He trabajado como editor jefe en aplicaciones con millones de descargas y administrador de plataformas online con miles de usuarios. Actualmente me especializo en el desarrollo web con un enfoque en tecnologías modernas.
 
-He aprendido a través de **ejercicios, cursos online y prácticas con proyectos propios**. En los próximos meses, estaré mejorando mis **habilidades como diseñador**, profundizando en **lenguajes de diseño** y avanzando en **React** para reforzar mis conocimientos.
+He aprendido a través de **ejercicios, cursos online y prácticas con proyectos propios**. En los próximos meses, estaré mejorando mis **habilidades como diseñador**, profundizando en **lenguajes de diseño** y avanzando en **React** para reforzar mis conocimientos. También sigo **perfeccionando mis habilidades en MySQL y Node.js**, explorando su aplicación en entornos más avanzados.
 
 ---
 
@@ -17,14 +17,32 @@ He aprendido a través de **ejercicios, cursos online y prácticas con proyectos
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🔍 Tecnologías con experiencia básica
+Además de mi enfoque en frontend y backend, he explorado diversas herramientas y frameworks que amplían mi capacidad de adaptación:
+
+✅ **Gestión del estado:** Redux.  
+✅ **Pruebas y desarrollo:** Jest.  
+✅ **Diseño y preprocesadores CSS:** SASS.  
+✅ **Herramientas para API:** Postman.  
+✅ **Optimización y bundling:** Vite.  
+✅ **Navegación en React:** React Router.  
+
+Continuo aprendiendo y mejorando en estas tecnologías para integrarlas mejor en mis proyectos y optimizar el desarrollo de aplicaciones modernas.
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordiLara&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JordiLara&show_icons=true&theme=radical)
 
 ---
 
@@ -38,7 +56,7 @@ He aprendido a través de **ejercicios, cursos online y prácticas con proyectos
 
 ## 💡 Competencias TIC
 
-✅ **Desarrollo Web:** HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Tailwind, Node.js, Express.  
+✅ **Desarrollo Web:** HTML, CSS, JavaScript, TypeScript, React, Redux, Bootstrap, Tailwind, Node.js, Express, MySQL.  
 ✅ **Edición Digital y Diseño:** Photoshop, Canva.  
 ✅ **Gestión de Contenidos:** Creación, edición y optimización en blogs y plataformas digitales.  
 ✅ **Inteligencia Artificial y Automatización:** Experiencia con herramientas IA.  
@@ -49,7 +67,7 @@ He aprendido a través de **ejercicios, cursos online y prácticas con proyectos
 
 ## 📫 Contacto
 
-📩 **Discord:** https://discord.com/users/466732760812224523
+📩 **Email:** [jordilarareyes@gmail.com](mailto:jordilarareyes@gmail.com)
 
 ---
 
