@@ -69,7 +69,7 @@ Continuo aprendiendo y mejorando en estas tecnologías para integrarlas mejor en
 
 ## 📫 Contacto
 
-📩 **Email:** [Email](mailto:jordilarareyes@gmail.com)
+📩 **Email:** [jordilarareyes@gmail.com]
   **Discord:** [Discord](https://discord.com/users/466732760812224523)
 
 
