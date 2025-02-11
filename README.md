@@ -42,7 +42,7 @@ Continuo aprendiendo y mejorando en estas tecnologías para integrarlas mejor en
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordiLara&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JordiLara&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JordiLara&show_icons=true&layout=compact=theme=radical)
 
 ---
 
