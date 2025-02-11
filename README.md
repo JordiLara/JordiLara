@@ -35,7 +35,7 @@ Además de mi enfoque en frontend y backend, he explorado diversas herramientas 
 ✅ **Optimización y bundling:** Vite.  
 ✅ **Navegación en React:** React Router.  
 
-Continuo aprendiendo y mejorando en estas tecnologías para integrarlas mejor en mis proyectos y optimizar el desarrollo de aplicaciones modernas.
+Continuo aprendiendo y mejorando en estas tecnologías para integrarlas mejor en mis proyectos y optimizar el desarrollo de aplicaciones.
 
 ---
 
@@ -69,7 +69,9 @@ Continuo aprendiendo y mejorando en estas tecnologías para integrarlas mejor en
 
 ## 📫 Contacto
 
-📩 **Email:** [jordilarareyes@gmail.com](mailto:jordilarareyes@gmail.com)
+📩 **Email:** [Email](jordilarareyes@gmail.com)
+  **Discord:** [Discord](https://discord.com/users/466732760812224523)
+
 
 ---
 
